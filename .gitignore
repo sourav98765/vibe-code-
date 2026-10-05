@@ -1,0 +1,8 @@
+node_modules/
+.sites-runtime/
+.env
+*.tar.gz
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+.firebaserc
